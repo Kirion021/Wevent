@@ -8,6 +8,6 @@
 						
 					</div>
 					
-					<p class="copy-right">Copyright &copy; 2020 Designed By : INDIOWEB, All rights reserved.</p>
+					
 				</div>
 			</footer>
